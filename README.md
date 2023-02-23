@@ -1,5 +1,5 @@
-# Wigle-BT - Bluetooth Device Trilateration Tool.
-This tool allows you to get the approximate location of a Bluetooth device using the long-awaited: Wigle.net API. The tool uses trilateration to calculate the AP's location based on its signal strength and the location of nearby access points.
+# Wigle-BT - Bluetooth Devices Trilateration Tool.
+This tool allows you to get the approximate location of a Bluetooth device using the long-awaited: Wigle.net API. The tool uses trilateration to calculate the BT device location based on its signal strength and the location of nearby devices.
 
 ## Requirements
 To use this tool, you need to have Python 3 installed on your system. You also need to create a free account on Wigle.net and obtain an API key.
@@ -25,7 +25,7 @@ python3 Wigle-BT.py
 
 Choose option 1 to get the location of a bluetooth device.
 
-Enter the MAC address of the bluetooth devce when prompted.
+Enter the MAC address of the bluetooth device when prompted.
 
 The tool will display the latitude and longitude of the bt device's location.
 
