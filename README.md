@@ -7,9 +7,11 @@ To use this tool, you need to have Python 3 installed on your system. You also n
 ## Installation
 Clone this repository or download the ZIP file and extract it to a directory of your choice.
 Create a file named config.json in the same directory as wigle-bt and add your Wigle.net API key in the following format:
+
 { "api_auth": "YOUR_API_KEY_HERE" }
 
-Open a terminal or command prompt in the directory where you extracted the files and run the command
+Open a terminal or command prompt in the directory where you extracted the files and run the command:
+
 pip3 install -r requirements.txt
 
 ...to install the required Python libraries.
