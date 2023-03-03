@@ -1,4 +1,39 @@
-# Wigle-BT - Bluetooth Devices Trilateration Tool.
+
+                                          w@@@@@@@@@@@@@@@@@@@@@@w
+                                       w@@@@@@@@@@@@@@@@@@@@@@@@@@@@w,
+                                    q@@@@@@@KMM*""````````""*%MK@@@@@@@W
+                                  @@@@@@M*`                      `*%@@@@@@,
+                                 @@@@@M                              *@@@@@N
+                               @@@@@                                   1@@@@@
+                              @@@@@                j@W,                 `@@@@@
+                             @@@@@                 j@@@@W,               `@@@@@
+                            ]@@@@                  j@@@@@@@W              1@@@@N
+                            @@@@                   j@@@@@@@@@@w            %@@@@
+                            @@@@             ,     j@@@@D*K@@@@@@w         J@@@@N
+                            @@@@           ,@@@W   j@@@@H  `@@@@@@M`        @@@@@
+                            @@@@          `%@@@@@N j@@@@H,#@@@@@M`           @@@@
+                            @@@N            `*@@@@@@@@@@@@@@@@M              @@@@
+                            @@@N               *@@@@@@@@@@@@M                @@@@
+                            @@@N                 "K@@@@@@K"                  @@@@
+                            @@@N                 a@@@@@@@@W                  @@@@
+                            @@@N              ,#@@@@@@@@@@@@N                @@@@
+                            @@@N            ,@@@@@@K@@@@K@@@@@@p             @@@@
+                            @@@@          -@@@@@@M j@@@@H *@@@@@@p           @@@@
+                            @@@@           `*@K"   j@@@@H  ,@@@@@@@H         @@@@
+                            @@@@H                  j@@@@N@@@@@@@M`          @@@@
+                            W@@@@                  j@@@@@@@@@M`            @@@@@
+                             @@@@N                 j@@@@@@M"              ]@@@@
+                             V@@@@p                j@@@M"                J@@@@
+                              %@@@@W               jM"                  z@@@@
+                               1@@@@@                                 ,@@@@@
+                                @@@@@Np                            ,#@@@@@
+                                 @@@@@@Nw,                    ,a#@@@@@@
+                                  "%@@@@@@@@@Kpwwwwaaawwwp@@@@@@@@@@M
+                                      *K@@@@@@@@@@@@@@@@@@@@@@@@MM
+
+                            # Wigle-BT - Bluetooth Device Trilateration Tool.
+
+# Wigle-BT
 This tool allows you to get the approximate location of a Bluetooth device using the long-awaited: Wigle.net API. The tool uses trilateration to calculate the BT device location based on its signal strength and the location of nearby devices.
 
 ## Requirements
